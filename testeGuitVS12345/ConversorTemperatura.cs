@@ -9,7 +9,7 @@
 
         public static double FahrenheitParaKelvin(double temperatura)
         {
-            return 1;
+            return 3;
         }
     }
 }
