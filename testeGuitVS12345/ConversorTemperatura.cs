@@ -1,17 +1,15 @@
-﻿using System;
-
-namespace testeGuitVS12345
+﻿namespace testeGuitVS12345
 {
     public class ConversorTemperatura
     {
         public static double FahrenheitParaCelsius(double temperatura)
         {
-            return Math.Round((temperatura - 32) / 1.8, 2);
+            return 0;
         }
 
         public static double FahrenheitParaKelvin(double temperatura)
         {
-            return Math.Round(((temperatura - 32) / 1.8) + 273.15, 2);
+            return 0;
         }
     }
 }
