@@ -4,7 +4,7 @@
     {
         public static double FahrenheitParaCelsius(double temperatura)
         {
-            return 1;
+            return 5;
         }
 
         public static double FahrenheitParaKelvin(double temperatura)
